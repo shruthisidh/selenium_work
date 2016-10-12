@@ -25,7 +25,7 @@ public class LoginCredentials {
 		actualtitle = driver.getTitle();
 		
 		if(actualtitle.equalsIgnoreCase(expectedtitle)){
-			System.out.println("true");
+			System.out.println("true passed");
 		}else{
 			System.out.println("false");
 			
