@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
-
+//testing the browsers
 public class IndividualCrossBrowsingInXMl {
 	WebDriver driver;
 	@Test
