@@ -7,6 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 //testing the browsers
+//changes for 18.4
 public class IndividualCrossBrowsingInXMl {
 	WebDriver driver;
 	@Test
